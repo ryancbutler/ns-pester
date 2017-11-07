@@ -6,6 +6,7 @@ Simple Pester tests to run against Citrix Netscaler
  - Load Balancer UP state
  - SSL Certificate Expiration
  - License Expiration
+ - DNS Resoultion for GSLB
 
 ## Requires the following Modules
  - [Netscaler](https://github.com/devblackops/NetScaler)
